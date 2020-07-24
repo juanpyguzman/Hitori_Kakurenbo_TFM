@@ -8,6 +8,11 @@
 			"Name": "PSD2UMG",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1161474e899d45bba4d42ba5874e6fbc"
+		},
+		{
+			"Name": "AnimatedTexture",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4e16df6426df4096aff1f67e3084b929"
 		}
 	]
 }
